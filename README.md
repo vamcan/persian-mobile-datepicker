@@ -1,4 +1,4 @@
-# Persian Mobile Date and Time picker
+# Persian Mobile Date and Time picker 
 
 This library provides a component that can set year, month, day, hour, minute and second by sliding up or down.
 
